@@ -1,0 +1,24 @@
+/* public/style.css */
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+  padding: 40px;
+}
+.container {
+  background: white;
+  padding: 20px;
+  max-width: 500px;
+  margin: auto;
+  border-radius: 8px;
+}
+input, select, textarea, button {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+}
+button {
+  background: #0072c6;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
